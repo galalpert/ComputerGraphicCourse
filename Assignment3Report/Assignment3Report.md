@@ -115,7 +115,6 @@ void Renderer::Render(const Scene& scene)
 
 
 ## 8. Texture Mapping
-### Environment Mapping:
 
 ### Normal Mapping:
 Without:
